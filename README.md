@@ -25,7 +25,7 @@ This allows the plant to maintain optimal conditions without constant human inte
 
 ### 🛠 Technologies Used
 
-- Arduino / Java / (PUT YOUR ACTUAL LANGUAGE HERE)
+- Arduino / Java 
 - Sensor-based input system  
 - Control logic for automation  
 
